@@ -109,7 +109,7 @@ Evening Shift generated approximately 82% of total revenue, while Pizza emerged 
 
 ### Dashboard Preview
 
-<img width="7016" height="3648" alt="image" src="https://github.com/user-attachments/assets/33e771ff-722e-4e3f-9ab1-2cb80353d143" />
+dashboard.png.jpg
 
 
 ---
