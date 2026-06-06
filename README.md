@@ -2,7 +2,7 @@
 
 ## About Me
 
-Aspiring Data Analyst and MIS Professional with 4+ years of experience in Hotel Operations, Sales Management, and Customer Service.
+Aspiring MIS Executive, Reporting Analyst, and Data Analytics Professional with 4+ years of experience in Business Development, Operations, Hotel Operations and Sales Management.
 
 Currently transitioning into Data Analytics by building practical projects in Excel, SQL, and Power BI, with a focus on reporting, dashboard development, and business analysis.
 
@@ -89,13 +89,38 @@ Overall attendance remained above 91%, with the IT department achieving the high
 
 ---
 
+## 5. Walk n Stay Cafe Operations Dashboard
+
+**File:** Walk_n_Stay_Cafe_Operations_Dashboard_Amaan.xlsx
+
+**Tools Used:** Excel, Pivot Tables, Pivot Charts, SUMIF, SUMIFS, KPI Cards, Slicers
+
+### Project Highlights
+
+* Developed an interactive restaurant operations dashboard based on real-world hospitality business scenarios.
+* Built KPI cards to track Total Revenue, Total Orders, Average Order Value, Food Revenue, and Beverage Revenue.
+* Analyzed revenue contribution by Shift, Menu Item, Staff Member, and Payment Method.
+* Created interactive slicers for dynamic filtering and business reporting.
+* Designed management-focused visualizations to support operational decision-making.
+
+### Key Insight
+
+Evening Shift generated approximately 82% of total revenue, while Pizza emerged as the highest revenue-generating menu item. Food sales contributed over 86% of total revenue.
+
+### Dashboard Preview
+
+<img width="7016" height="3648" alt="image" src="https://github.com/user-attachments/assets/33e771ff-722e-4e3f-9ab1-2cb80353d143" />
+
+
+---
+
 # Skills
 
 ### Technical Skills
 
 * Microsoft Excel (Advanced)
-* SQL (Learning)
-* Power BI (Learning)
+* SQL (Intermediate - Currently Learning Advanced Concepts)
+* Power BI (Currently Learning Dashboard Development) 
 * Dashboard Development
 * KPI Reporting
 * Data Cleaning & Analysis
